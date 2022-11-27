@@ -1,0 +1,29 @@
+.container{
+    padding: 16px;
+}
+h2{
+    font-weight: lighter;
+    font-size: 20px;
+    color: #616161;
+}
+
+.list{}
+
+.list h3{
+    font-size: 18px;
+    color: #1976d2;
+}
+
+.list p{
+    color:#616161;
+    font-size: 16px;
+}
+
+.list button{
+    padding: 5px;
+    background-color: #1976d2;
+    color: white;
+    border: none;
+    border-radius: 2px;
+    cursor: pointer;
+}

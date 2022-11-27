@@ -1,0 +1,8 @@
+button{
+    padding: 5px;
+    background-color: #1976d2;
+    color: white;
+    border: none;
+    border-radius: 2px;
+    cursor: pointer;
+}
